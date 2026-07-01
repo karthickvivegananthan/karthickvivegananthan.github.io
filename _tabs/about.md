@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hey, I'm <u>**Karthick Vivegananthan**</u> 👋
+# Hey, I'm <b><u>Karthick Vivegananthan</u></b> 👋
 
 **Developer 👨‍💻 | Hacker 🥷 | Curious human 🧠** \
 Lost in the latent space - and absolutely fine with it
@@ -49,7 +49,7 @@ A few things I believe in strongly:
 - The best way to understand a model is to implement it from scratch - at least once
 - AI is fascinating - but **Human Intelligence, unfiltered**, is rarer and more valuable
 - Intuition beats memorization. Always. Build it, don't borrow it
-- Writing > just consuming | Building > just reading | Sharing > just knowing
+- Writing > just consuming - Building > just reading - Sharing > just knowing
 
 ---
 
